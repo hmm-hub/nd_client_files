@@ -1,0 +1,11 @@
+{
+"latest_news": 1,
+
+"news1" {
+"title": "Hello",
+"content": "Test test\nTesting...",
+"img_count": "2",
+"img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR4zQ38cSySdVaj5NTQT-bPC6tVLNhkwimOQ&usqp=CAU",
+"img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoRg_bA5OKh7TPt_ivFgv3dWXdlq_P_KuHaw&usqp=CAU"
+}
+}
