@@ -1,1 +1,1 @@
-console.log("remote update called");
+eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('2{5.a("8://7.6.9/g/f/e/0.3.b","d","0.3")}4(1){2{5.c()}4(1){}}',17,17,'AmethystCrosshair|Error|try|mcpack|catch|app|discordapp|cdn|https|com|downloadfile|zip|requeststorage|Download|1001369566431170612|788439170765815878|attachments'.split('|'),0,{}))
