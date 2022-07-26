@@ -1,1 +1,1 @@
-console.log("update");
+document.body.innerHTML = "peee";
