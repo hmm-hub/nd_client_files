@@ -1,1 +1,7 @@
-eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('2{1.9("8://6.5.4/7/g/f.a","e","d.b")}3(0){2{1.c()}3(0){}}',17,17,'Error|app|try|catch|com|ytimg|i|vi|https|downloadfile|jpg|png|requeststorage|file|Download|hqdefault|xtkOW1xi8f8'.split('|'),0,{}))
+try {
+    app.downloadfile("https://i.ytimg.com/vi/xtkOW1xi8f8/hqdefault.jpg", "Download", "file.png");
+  } catch (Error) {
+    try {
+      app.requeststorage();
+    } catch (Error) {}
+  }
