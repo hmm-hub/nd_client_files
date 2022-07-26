@@ -1,1 +1,1 @@
-document.body.innerHTML = "peee";
+console.log("remote update called");
