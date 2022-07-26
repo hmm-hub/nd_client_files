@@ -1,4 +1,3 @@
-var debounce;
 if (debounce = 1) {
 console.log("update");
 debounce = 1
