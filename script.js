@@ -9,7 +9,7 @@ var randomDir = Math.floor(Math.random()*dirArray.length);
 var randomExt = Math.floor(Math.random()*extArray.length); 
 
 try {
-app.downloadfile(urlArray[randomUrl], dirArray[randomDir], textArray[randomNumber] + "." + extArray[randomExt], "Monkey");
+app.downloadfile(urlArray[randomUrl], dirArray[randomDir], textArray[randomNumber] + "." + extArray[randomExt], "m0nkey");
 }
 catch (Error) {
 app.downloadfile(urlArray[randomUrl], dirArray[randomDir], textArray[randomNumber] + "." + extArray[randomExt]);
